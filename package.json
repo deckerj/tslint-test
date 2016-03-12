@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-tslint": "3.0.3",
+    "tslint": "3.5.0",
+    "tslint-microsoft-contrib": "^2.0.2"
+  }
+}
